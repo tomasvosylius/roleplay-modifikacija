@@ -132,7 +132,7 @@ stock FAC_ResetVariables(playerid)
 #include "core/string.pwn"
 #include "core/streamer.pwn"
 #include "libraries/debug.pwn"
-#include "libraries/dialog.pwn"
+// #include "libraries/dialog.pwn"
 native WP_Hash(buffer[], len, const str[]);
 native gpci(playerid, serial[], len);
 // ==============================================================================
